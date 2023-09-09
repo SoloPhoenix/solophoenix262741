@@ -1,0 +1,24 @@
+:root{
+    --primary : blue;
+    
+}
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    padding: 50px;
+}
+
+.square{
+    /* background-color: blue;
+    height: 100px;
+    width: 100px;
+
+    padding: 50px;
+    display: inline-block; */
+
+    border: 50px solid var(--primary);
+    display: inline-block;
+}
+ 

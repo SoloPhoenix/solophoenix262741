@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    border: 5px solid black;
+    height: 500px;
+}
+
+.poe{
+    width: 200px;
+    /* transform: translateX(200px) translateY(200px); */
+    /* transform: 50px 100px; */
+    /* transform: -10deg; */
+    /* rotate: 50deg; */
+    /* scale: 0.4; */
+    /* transform: skewY(5deg); */
+
+
+}
